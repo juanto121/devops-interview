@@ -1,0 +1,6 @@
+console_credentials.txt
+new_user_credentials.csv
+frontend/node_modules/
+backend/node_modules/
+backend/.idea
+frontend/.idea
